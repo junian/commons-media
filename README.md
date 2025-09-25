@@ -100,7 +100,7 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Java Logo
 
-<img src="./svg/java-logo" height="128px">
+<img src="./svg/java-logo.svg" height="128px">
 
 ```
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/java-logo.svg" height="128px">
