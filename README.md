@@ -2,4 +2,4 @@
 
 Hand-picked Wikimedia Commons SVG files.
 
-The purpose is to use it in image on GitHub README or blog.
+The purpose is to use it as image on GitHub README or blog.
