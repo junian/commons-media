@@ -23,7 +23,7 @@ The purpose is to use it as image on GitHub README or blog.
 ```
 
 ```
-![Wikimedia Commons Logo](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/commons-logo.svg)
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/commons-logo.svg)
 ```
 
 ### Microsoft .NET Logo
@@ -35,5 +35,65 @@ The purpose is to use it as image on GitHub README or blog.
 ```
 
 ```
-![Microsoft .NET Logo](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/microsoft-dotnet-logo.svg)
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/microsoft-dotnet-logo.svg)
+```
+
+### Python Logo No Text
+
+<img src="./svg/python-logo-notext.svg" height="128px">
+
+```
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/python-logo-notext.svg" height="128px">
+```
+
+```
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/python-logo-notext.svg)
+```
+
+### Homebrew package manager Logo
+
+<img src="./svg/homebrew-logo.svg" height="128px">
+
+```
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/homebrew-logo.svg" height="128px">
+```
+
+```
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/homebrew-logo.svg)
+```
+
+### C Programming Language Logo
+
+<img src="./svg/c-logo.svg" height="128px">
+
+```
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/c-logo.svg" height="128px">
+```
+
+```
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/c-logo.svg)
+```
+
+### C++ Programming Language Logo
+
+<img src="./svg/cpp-logo.svg" height="128px">
+
+```
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/cpp-logo.svg" height="128px">
+```
+
+```
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/cpp-logo.svg)
+```
+
+### Xamarin Logo
+
+<img src="./svg/xamarin-logo.svg" height="128px">
+
+```
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/xamarin-logo.svg" height="128px">
+```
+
+```
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/xamarin-logo.svg)
 ```
