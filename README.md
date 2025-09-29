@@ -133,3 +133,15 @@ The purpose is to use it as image on GitHub README or blog.
 ```
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/libgdx-logo.svg)
 ```
+
+### Windows Terminal Logo
+
+<img src="./svg/windows-terminal-logo.svg" height="128px" />
+
+```
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/windows-terminal-logo.svg" height="128px" />
+```
+
+```
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/windows-terminal-logo.svg)
+```
