@@ -121,3 +121,15 @@ The purpose is to use it as image on GitHub README or blog.
 ```
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/php-logo.svg)
 ```
+
+### libGDX Logo
+
+<img src="./svg/libgdx-logo.svg" height="128px" />
+
+```
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/libgdx-logo.svg" height="128px" />
+```
+
+```
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/libgdx-logo.svg)
+```
