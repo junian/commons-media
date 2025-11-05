@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./svg/commons-logo.svg" height="128px" />
+<img src="./svg/commons-logo.svg" style="height: 128px;" />
 
 # Commons Media
 
@@ -16,10 +16,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Wikimedia Commons Logo
 
-<img src="./svg/commons-logo.svg" height="128px" />
+<img src="./svg/commons-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/commons-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/commons-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -28,10 +28,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Microsoft .NET Logo
 
-<img src="./svg/microsoft-dotnet-logo.svg" height="128px" />
+<img src="./svg/microsoft-dotnet-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/microsoft-dotnet-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/microsoft-dotnet-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -40,10 +40,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Python Logo No Text
 
-<img src="./svg/python-logo-notext.svg" height="128px" />
+<img src="./svg/python-logo-notext.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/python-logo-notext.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/python-logo-notext.svg" style="height: 128px;" />
 ```
 
 ```
@@ -52,10 +52,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Homebrew package manager Logo
 
-<img src="./svg/homebrew-logo.svg" height="128px" />
+<img src="./svg/homebrew-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/homebrew-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/homebrew-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -64,10 +64,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### C Programming Language Logo
 
-<img src="./svg/c-logo.svg" height="128px" />
+<img src="./svg/c-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/c-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/c-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -76,10 +76,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### C++ Programming Language Logo
 
-<img src="./svg/cpp-logo.svg" height="128px" />
+<img src="./svg/cpp-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/cpp-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/cpp-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -88,10 +88,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Xamarin Logo
 
-<img src="./svg/xamarin-logo.svg" height="128px" />
+<img src="./svg/xamarin-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/xamarin-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/xamarin-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -100,10 +100,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Java Logo
 
-<img src="./svg/java-logo.svg" height="128px" />
+<img src="./svg/java-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/java-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/java-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -112,10 +112,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### PHP Logo
 
-<img src="./svg/php-logo.svg" height="128px" />
+<img src="./svg/php-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/php-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/php-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -124,10 +124,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### libGDX Logo
 
-<img src="./svg/libgdx-logo.svg" height="128px" />
+<img src="./svg/libgdx-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/libgdx-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/libgdx-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -136,10 +136,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Windows Terminal Logo
 
-<img src="./svg/windows-terminal-logo.svg" height="128px" />
+<img src="./svg/windows-terminal-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/windows-terminal-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/windows-terminal-logo.svg" style="height: 128px;" />
 ```
 
 ```
@@ -148,10 +148,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 ### Google Chrome
 
-<img src="./svg/google-chrome-logo.svg" height="128px" />
+<img src="./svg/google-chrome-logo.svg" style="height: 128px;" />
 
 ```
-<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/google-chrome-logo.svg" height="128px" />
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/google-chrome-logo.svg" style="height: 128px;" />
 ```
 
 ```
