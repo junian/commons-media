@@ -18,11 +18,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/commons-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/commons-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/commons-logo.svg)
 ```
 
@@ -30,11 +30,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/microsoft-dotnet-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/microsoft-dotnet-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/microsoft-dotnet-logo.svg)
 ```
 
@@ -42,11 +42,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/python-logo-notext.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/python-logo-notext.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/python-logo-notext.svg)
 ```
 
@@ -54,11 +54,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/homebrew-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/homebrew-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/homebrew-logo.svg)
 ```
 
@@ -66,11 +66,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/c-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/c-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/c-logo.svg)
 ```
 
@@ -78,11 +78,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/cpp-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/cpp-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/cpp-logo.svg)
 ```
 
@@ -90,11 +90,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/xamarin-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/xamarin-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/xamarin-logo.svg)
 ```
 
@@ -102,11 +102,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/java-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/java-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/java-logo.svg)
 ```
 
@@ -114,11 +114,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/php-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/php-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/php-logo.svg)
 ```
 
@@ -126,11 +126,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/libgdx-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/libgdx-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/libgdx-logo.svg)
 ```
 
@@ -138,11 +138,11 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/windows-terminal-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/windows-terminal-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/windows-terminal-logo.svg)
 ```
 
@@ -150,10 +150,10 @@ The purpose is to use it as image on GitHub README or blog.
 
 <img src="./svg/google-chrome-logo.svg" style="height: 128px;" />
 
-```
+```html
 <img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/google-chrome-logo.svg" style="height: 128px;" />
 ```
 
-```
+```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/google-chrome-logo.svg)
 ```
