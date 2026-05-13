@@ -1,9 +1,13 @@
 title: Commons Media
 description: Hand-picked Wikimedia Commons SVG files
 show_downloads: false
-google_analytics: G-MKQK789F6L
+google_analytics: G-BJ58GF34YZ
 # theme: just-the-docs
-remote_theme: junian/just-the-docs
+remote_theme: junian/jekyll-jtdocs
+url: "https://www.junian.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/commons-media" # the subpath of your site, e.g. /blog
+repository: junian/commons-media # for github-metadata
+enforce_canonical_domain: true
 
 markdown: CommonMarkGhPages
 commonmark:
@@ -23,7 +27,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-commonmark-ghpages
-  - just-the-docs
 
 whitelist:
   - jekyll-redirect-from
@@ -31,8 +34,12 @@ whitelist:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-commonmark-ghpages
-  - just-the-docs
 
+readme_index:
+  enabled:          true
+  remove_originals: true
+  with_frontmatter: false
+ 
 # <!-- just-the-docs start />
 
 # Set a path/url to a logo that will be displayed instead of the title
@@ -66,6 +73,8 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: "k"
+  # Use external search data / index
+  external_search_data: "/assets/js/search-data.json"
 
 # For copy button on code
 enable_copy_code_button: true
@@ -124,18 +133,18 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: 'Copyright &copy; 2025 Junian.dev'
+footer_content: 'Copyright &copy; 2025 - <code>DateTime.Now()</code> Junian.dev'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: false # show or hide edit this page link
+gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page"
-gh_edit_repository: "https://github.com/junian/junian.github.io" # the github URL for your repo
-gh_edit_branch: "raw" # the branch that your docs is served from
-gh_edit_source: docs # the source that your files originate from
+gh_edit_repository: "https://github.com/junian/commons-media" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_source: "" # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
@@ -161,7 +170,18 @@ callouts:
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
 # Note: the main Just the Docs site does *not* use Google Analytics.
-ga_tracking: G-MKQK789F6L
+ga_tracking: G-BJ58GF34YZ
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+google_adsense: ca-pub-1135979461412092
+
+# Microsoft Clarity Tracking (optional)
+microsoft_clarity: vqbj1zi6a5
+
+# Disqus Comments
+# disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  # shortname: junian
 
 # <!-- just-the-docs end />
