@@ -169,3 +169,4 @@ The purpose is to use it as image on GitHub README or blog.
 ```markdown
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/jekyll-logo-black.svg)
 ```
+
