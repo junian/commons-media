@@ -170,3 +170,14 @@ The purpose is to use it as image on GitHub README or blog.
 ![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/jekyll-logo-black.svg)
 ```
 
+### Markdown Logo
+
+<img src="./svg/markdown-mark-logo.svg" style="height: 128px;" />
+
+```html
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/markdown-mark-logo.svg" style="height: 128px;" />
+```
+
+```markdown
+![](https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/markdown-mark-logo.svg)
+```
